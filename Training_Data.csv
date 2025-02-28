@@ -1,0 +1,349 @@
+Project Name,Funding ($M),Tasks Required,"Free to Join(Yes=1, No=0)","VC Backing(Yes=1, No=0)",Airdrop Longevity (Days),Token Utility,Team Size,"GitHub Activity(Low=0, Medium=1, High=2)",Twitter Followers,Community Size,"Market Condition(Bull=1, Bear= -1, Neutral=0)",Blockchain,Sector,Initial Value ($),Peak Value ($),Average value($),Success Score (0-10)
+0x,24.0,Unknown,0,1,7,DEX,30,2,220000,90000,1,Ethereum,DeFi,0.07,2.5,1.285,4.2
+Aeternity,24.0,Unknown,0,1,7,Smart Contract,30,1,110000,45000,1,Aeternity,Layer 1,0.04,5.0,2.52,3.8
+Ampleforth,9.8,Unknown,0,1,7,Elastic Supply,15,1,70000,30000,-1,Ethereum,DeFi,1.0,4.07,2.535,3.0
+Aragon,25.0,Unknown,0,1,7,Governance,20,2,140000,60000,1,Ethereum,Governance,0.9,11.21,6.055000000000001,4.9
+AriseBank,600.0,Unknown,0,0,7,Banking,10,0,25000,10000,1,Ethereum,Banking,0.4,1.2,0.8,0.0
+Ark,0.9,Unknown,0,1,7,"Governance, Layer 1",20,1,80000,35000,1,ARK,Layer 1,0.04,10.91,5.475,2.5
+Augur,5.3,Unknown,0,1,7,Prediction Market,15,1,100000,40000,-1,Ethereum,Prediction,0.6,123.24,61.919999999999995,4.5
+Bancor,153.0,Unknown,0,1,7,DEX,25,1,150000,60000,1,Ethereum,DeFi,2.43,23.3,12.865,4.5
+Basis Protocol,133.0,Unknown,0,1,7,Stablecoin,15,1,40000,15000,-1,Ethereum,Stablecoin,1.0,1.0,1.0,0.0
+Benebit,2.7,Unknown,0,0,7,Loyalty,0,0,9000,4000,1,Ethereum,Loyalty,0.3,0.3,0.3,0.0
+BitClout,200.0,Unknown,0,1,7,Social,20,1,250000,100000,1,BitClout,Social,170.0,202.0,186.0,2.5
+BitConnect,0.0,Unknown,0,0,7,Lending,20,0,160000,70000,1,BitConnect,DeFi,0.17,463.0,231.585,0.0
+Bitconnect X,10.0,Unknown,0,0,7,Exchange,0,0,50000,20000,1,BitConnect,Exchange,50.0,70.0,60.0,0.0
+BlockFi,350.0,Unknown,0,1,7,Lending,850,1,350000,150000,1,Ethereum,DeFi,0.03,0.05,0.04,0.5
+Bread,32.0,Unknown,0,1,7,Wallet,20,1,70000,30000,1,Ethereum,Wallet,0.89,3.5,2.195,3.2
+Centra Tech,32.0,Unknown,0,0,7,Payment,5,0,70000,30000,1,Ethereum,Payment,0.88,3.84,2.36,0.0
+Civic,33.0,Unknown,0,1,7,Identity,20,1,150000,60000,1,Ethereum,Identity,0.1,1.66,0.88,3.8
+Concordium,36.0,Unknown,0,1,7,Privacy,50,1,80000,35000,1,Concordium,Privacy,0.12,0.24,0.18,2.5
+Confido,0.4,Unknown,0,0,7,Escrow,4,0,20000,8000,1,Ethereum,Escrow,0.1,1.2,0.65,0.0
+Cred,26.4,Unknown,0,1,7,Lending,50,1,90000,40000,-1,Ethereum,DeFi,0.15,0.19,0.16999999999999998,0.0
+Davorcoin,0.0,Unknown,0,0,7,Lending,0,0,30000,12000,1,Ethereum,Lending,0.95,180.0,90.475,0.0
+DeepBrain Chain,11.0,Unknown,0,1,7,AI Computing,25,1,80000,35000,1,NEO,AI,0.02,0.64,0.33,3.0
+Dentacoin,2.1,Unknown,0,1,7,Dental,15,0,40000,15000,1,Ethereum,Industry,9.4e-06,0.01,0.0050047,1.0
+DragonChain,13.7,Unknown,0,1,7,Blockchain Platform,30,1,90000,40000,1,Ethereum,Infrastructure,0.07,5.27,2.67,3.2
+Dusk Network,8.1,Unknown,0,1,7,Privacy,25,1,90000,40000,-1,Dusk,Privacy,0.07,0.69,0.38,3.0
+Elastos,94.0,Unknown,0,1,7,Operating System,40,1,110000,45000,1,Elastos,Infrastructure,37.0,89.19,63.095,2.5
+Electroneum,40.0,Unknown,0,1,7,Mobile Mining,20,0,320000,150000,1,Electroneum,Mobile,0.01,0.2,0.10500000000000001,2.5
+Enigma,45.0,Unknown,0,1,7,Privacy,25,1,80000,35000,1,Ethereum,Privacy,0.6,8.39,4.495,3.0
+Envion,100.0,Unknown,0,1,7,Mining,15,0,35000,15000,1,Ethereum,Mining,0.7,2.37,1.5350000000000001,0.2
+Fei Protocol,1300.0,Unknown,0,1,7,Stablecoin,20,2,80000,35000,1,Ethereum,Stablecoin,0.97,1.03,1.0,2.5
+Auroracoin,0.0,Citizenship,1,0,7,Currency,1,0,20000,8000,-1,Auroracoin,Currency,0.03,97.0,48.515,1.5
+Hive,0.0,Content,1,0,7,"Governance, Social",15,1,100000,40000,0,Hive,Social,0.12,3.42,1.77,6.8
+Golem,8.6,Unknown,0,1,7,Computing,15,1,120000,50000,-1,Ethereum,Computing,0.01,1.32,0.665,4.0
+Hodlnaut,0.0,Unknown,0,0,7,Lending,25,0,50000,20000,-1,Ethereum,DeFi,1.0,1.5,1.25,0.0
+ICON,42.5,Unknown,0,1,7,"Governance, Layer 1",30,1,150000,60000,1,ICON,Layer 1,0.11,12.64,6.375,3.8
+iFan,0.0,Unknown,0,0,7,Social,0,0,30000,10000,-1,Ethereum,Social,0.01,0.03,0.02,0.0
+IOST,31.3,Unknown,0,1,7,Infrastructure,40,1,180000,80000,1,IOST,Layer 1,0.01,0.13,0.07,3.5
+Kin,98.0,Unknown,0,1,7,Social,40,1,160000,70000,1,Solana,Social,0.0001,0.001,0.00055,4.2
+Komodo,0.0,Unknown,0,1,7,Privacy,20,1,50000,20000,-1,Komodo,Privacy,0.4,15.1,7.75,2.5
+Kyber Network,52.0,Unknown,0,1,7,DEX,25,1,130000,55000,1,Ethereum,DeFi,0.38,5.55,2.965,4.0
+Lisk,5.8,Unknown,0,1,7,"Governance, Layer 1",25,1,120000,50000,-1,Lisk,Layer 1,0.07,39.31,19.69,2.2
+Maidsafe,7.0,Unknown,0,1,7,Storage,15,1,30000,12000,-1,Omni,Storage,0.06,1.2,0.63,3.5
+Mastercoin/Omni,0.5,Unknown,0,1,7,Platform,5,1,10000,4000,-1,Omni,Layer 1,0.8,285.0,142.9,2.8
+Steemit,0.0,Content,1,0,7,"Governance, Social",20,1,120000,50000,-1,Steem,Social,0.24,8.57,4.405,7.0
+Nebulas,60.0,Unknown,0,1,7,Search Engine,35,1,90000,40000,1,Nebulas,Infrastructure,2.0,16.32,9.16,2.8
+Nexo,52.5,Unknown,0,1,7,Lending,200,1,280000,120000,-1,Ethereum,DeFi,0.1,4.07,2.085,3.0
+Oasis Network,45.0,Unknown,0,1,7,Privacy,40,2,180000,80000,1,Oasis,Privacy,0.03,0.59,0.31,3.8
+OneCoin,0.0,Unknown,0,0,7,Payment,30,0,300000,150000,-1,OneCoin,Payment,0.5,6.0,3.25,0.0
+Oyster Protocol,8.9,Unknown,0,1,7,Storage,10,1,40000,15000,1,Ethereum,Storage,0.04,4.93,2.485,0.5
+Paycoin,0.0,Unknown,0,0,7,Payment,5,0,15000,6000,-1,Paycoin,Payment,20.0,21.3,20.65,0.0
+Pincoin,0.0,Unknown,0,0,7,Investment,0,0,40000,15000,-1,Ethereum,Investment,0.05,0.1,0.07500000000000001,0.0
+PlexCoin,15.0,Unknown,0,0,7,Payment,3,0,25000,10000,1,Ethereum,Payment,0.13,0.87,0.5,0.0
+PlusToken,0.0,Unknown,0,0,7,Wallet,15,0,200000,100000,-1,Ethereum,Wallet,0.3,350.0,175.15,0.0
+Power Ledger,34.0,Unknown,0,1,7,Energy,25,1,90000,40000,1,Ethereum,Energy,0.05,2.39,1.22,3.5
+Prodeum,6.0,Unknown,0,0,7,Supply Chain,0,0,5000,2000,1,Ethereum,Supply Chain,0.05,0.05,0.05,0.0
+Pundi X,35.0,Unknown,0,1,7,Payment,30,1,120000,50000,1,Ethereum,Payment,0.0021,0.0159,0.009000000000000001,2.5
+Qtum,15.6,Unknown,0,1,7,"Governance, Layer 1",30,1,180000,80000,1,Qtum,Layer 1,0.3,106.88,53.589999999999996,2.0
+REcoin,0.0,Unknown,0,0,7,Real Estate,2,0,15000,5000,1,Ethereum,Real Estate,0.5,0.75,0.625,0.0
+Reddcoin,0.0,Unknown,0,1,7,Social,2,0,70000,30000,-1,Reddcoin,Social,1.5e-05,0.03,0.0150075,2.0
+SALT,48.0,Unknown,0,1,7,Lending,20,1,80000,35000,1,Ethereum,DeFi,0.25,17.22,8.735,2.0
+Savedroid,50.0,Unknown,0,1,7,Savings,20,0,45000,18000,-1,Ethereum,Finance,0.01,0.02,0.015,0.3
+Sirin Labs,157.9,Unknown,0,1,7,Hardware,40,1,100000,40000,1,Ethereum,Hardware,0.47,3.48,1.975,2.8
+Status,100.0,Unknown,0,1,7,Messaging,30,1,180000,80000,1,Ethereum,Social,0.03,0.23,0.13,4.2
+Stratis,0.6,Unknown,0,1,7,"Governance, Layer 1",15,1,90000,40000,-1,Stratis,Layer 1,0.01,22.66,11.335,2.8
+Substratum,13.8,Unknown,0,1,7,Decentralized Web,15,1,60000,25000,1,Ethereum,Infrastructure,0.05,3.25,1.65,2.8
+Titanium Blockchain,21.0,Unknown,0,0,7,Infrastructure,8,0,50000,20000,1,Ethereum,Infrastructure,0.4,2.0,1.2,0.0
+TRON,70.0,Unknown,0,1,7,"Governance, Layer 1",50,1,3200000,1500000,1,TRON,Layer 1,0.0022,0.3,0.15109999999999998,4.2
+Vauld,27.0,Unknown,0,1,7,Lending,120,1,180000,80000,0,Ethereum,DeFi,0.05,0.12,0.08499999999999999,0.2
+VeChain,20.0,Unknown,0,1,7,Supply Chain,100,2,520000,220000,1,VeChain,Supply Chain,0.0021,0.28,0.14105,4.8
+Waltonchain,10.5,Unknown,0,1,7,Supply Chain,25,1,110000,45000,1,Ethereum,Supply Chain,1.0,42.46,21.73,3.5
+Wanchain,36.0,Unknown,0,1,7,Interoperability,30,1,120000,50000,1,Wanchain,Infrastructure,0.34,9.92,5.13,3.0
+Waves,16.0,Unknown,0,1,7,"Governance, Layer 1",20,1,180000,80000,-1,Waves,Layer 1,0.19,41.33,20.759999999999998,3.0
+Abracadabra,0.0,Unknown,1,0,7,Lending,0,1,150000,60000,1,Ethereum,DeFi,0.0045,0.03,0.017249999999999998,3.0
+Akita Inu,0.0,Unknown,1,0,7,Meme,0,0,120000,50000,1,Ethereum,Meme,1.7e-08,3e-05,1.50085e-05,2.0
+Banano,0.0,Unknown,1,0,7,Meme,10,1,60000,25000,-1,Banano,Meme,0.003,0.05,0.026500000000000003,2.8
+Basis Cash,0.0,Unknown,1,0,7,Stablecoin,0,1,30000,12000,1,Ethereum,Stablecoin,1.0,1.38,1.19,0.8
+Beefy Finance,0.0,Unknown,1,0,7,"Governance, Yield",10,1,120000,50000,1,Multi-chain,DeFi,386.0,2389.0,1387.5,7.8
+BitcoinDark,0.0,Unknown,1,0,7,Privacy,5,0,10000,4000,-1,BitcoinDark,Privacy,0.75,97.0,48.875,1.5
+BitUSD,0.0,Unknown,1,0,7,Stablecoin,10,0,20000,8000,-1,BitShares,Stablecoin,1.0,1.15,1.075,1.5
+Brett,0.0,Unknown,1,0,7,Meme,0,0,320000,150000,1,Solana,Meme,6.9e-06,4.2e-05,2.4449999999999998e-05,2.5
+Anoncoin,0.0,Mining,1,0,7,Privacy,2,0,4000,1600,-1,Anoncoin,Privacy,0.15,13.0,6.575,1.0
+BBQCoin,0.0,Mining,1,0,7,Currency,1,0,1200,500,-1,BBQCoin,Currency,0.01,0.15,0.08,0.2
+Beam,0.0,Mining,1,0,7,Privacy,15,1,40000,15000,-1,Beam,Privacy,0.8,3.13,1.9649999999999999,2.8
+Bitgem,0.0,Mining,1,0,7,Currency,1,0,1200,500,-1,Bitgem,Currency,0.5,7.0,3.75,0.2
+Bytecoin,0.0,Mining,1,0,7,Privacy,5,0,20000,8000,-1,Bytecoin,Privacy,1e-06,0.03,0.0150005,1.5
+Dash,0.0,Mining,1,0,7,Privacy,20,1,160000,70000,-1,Dash,Privacy,0.21,1642.22,821.215,3.5
+Devcoin,0.0,Mining,1,0,7,Currency,1,0,1000,400,-1,Devcoin,Currency,2e-05,0.0006,0.00031,0.2
+Digitalcoin,0.0,Mining,1,0,7,Currency,1,0,2000,800,-1,Digitalcoin,Currency,0.03,0.5,0.265,0.5
+DeepOnion,0.0,Unknown,1,0,7,Privacy,5,0,25000,10000,1,DeepOnion,Privacy,0.15,8.19,4.17,1.8
+Dogecoin,0.0,Mining,1,0,7,Currency,5,1,3500000,1500000,-1,Dogecoin,Currency,0.000227,0.73,0.3651135,4.5
+Fastcoin,0.0,Mining,1,0,7,Currency,1,0,1800,700,-1,Fastcoin,Currency,0.002,0.05,0.026000000000000002,0.2
+Doge Killer,0.0,Unknown,1,0,7,Meme,0,0,80000,35000,1,Ethereum,Meme,700.0,8983.0,4841.5,2.0
+Feathercoin,0.0,Mining,1,0,7,Currency,2,0,5000,2000,-1,Feathercoin,Currency,0.01,1.24,0.625,1.8
+Dogecoin Cash,0.0,Unknown,1,0,7,Meme,0,0,5000,2000,-1,Dogecoin Cash,Meme,0.001,0.005,0.003,0.5
+Dogelon Mars,0.0,Unknown,1,0,7,Meme,0,0,380000,150000,1,Ethereum,Meme,7e-11,2.6e-06,1.300035e-06,2.5
+Dogwifhat,0.0,Unknown,1,0,7,Meme,0,0,450000,200000,1,Solana,Meme,0.00041,4.85,2.4252049999999996,3.2
+Freicoin,0.0,Mining,1,0,7,Currency,1,0,2500,1000,-1,Freicoin,Currency,0.15,1.2,0.6749999999999999,0.5
+Dynamic Set Dollar,0.0,Unknown,1,0,7,Stablecoin,0,1,20000,8000,1,Ethereum,Stablecoin,1.0,3.0,2.0,0.5
+Goldcoin,0.0,Mining,1,0,7,Currency,1,0,2000,800,-1,Goldcoin,Currency,0.01,0.6,0.305,0.5
+Empty Set Dollar,0.0,Unknown,1,0,7,Stablecoin,0,1,25000,10000,1,Ethereum,Stablecoin,1.0,23.88,12.44,1.0
+Grin,0.0,Mining,1,0,7,Privacy,10,1,30000,12000,-1,Grin,Privacy,5.15,13.74,9.445,2.5
+Horizen,0.0,Mining,1,0,7,Privacy,20,1,90000,40000,1,Horizen,Privacy,4.53,168.46,86.495,3.2
+I0Coin,0.0,Mining,1,0,7,Currency,1,0,1500,600,-1,I0Coin,Currency,0.03,0.25,0.14,0.2
+Infinitecoin,0.0,Mining,1,0,7,Currency,1,0,3000,1200,-1,Infinitecoin,Currency,2e-06,0.001,0.000501,0.5
+Ixcoin,0.0,Mining,1,0,7,Currency,1,0,2000,800,-1,Ixcoin,Currency,0.05,0.45,0.25,0.2
+Floki Inu,0.0,Unknown,1,0,7,Meme,0,0,450000,200000,1,Ethereum,Meme,4e-08,0.0003,0.00015001999999999998,3.0
+Megacoin,0.0,Mining,1,0,7,Currency,1,0,3500,1500,-1,Megacoin,Currency,0.15,7.0,3.575,0.8
+Mincoin,0.0,Mining,1,0,7,Currency,1,0,2000,800,-1,Mincoin,Currency,0.05,7.5,3.775,0.5
+MonaCoin,0.0,Mining,1,0,7,Meme,5,0,40000,15000,-1,MonaCoin,Meme,0.05,16.61,8.33,2.5
+Monero,0.0,Mining,1,0,7,Privacy,30,2,480000,200000,-1,Monero,Privacy,2.47,542.33,272.40000000000003,4.8
+Mooncoin,0.0,Mining,1,0,7,Currency,1,0,8000,3000,-1,Mooncoin,Currency,9e-08,0.00014,7.0045e-05,0.5
+Namecoin,0.0,Mining,1,0,7,Domain,3,0,8000,3000,-1,Namecoin,Domain,0.15,15.41,7.78,2.5
+NavCoin,0.0,Mining,1,0,7,Privacy,5,0,20000,8000,-1,NavCoin,Privacy,9e-05,4.65,2.3250450000000003,1.5
+Novacoin,0.0,Mining,1,0,7,Currency,1,0,2000,800,-1,Novacoin,Currency,10.0,700.0,355.0,0.8
+Peercoin,0.0,Mining,1,0,7,Currency,2,0,12000,5000,-1,Peercoin,Layer 1,0.1,9.45,4.7749999999999995,2.0
+Phoenixcoin,0.0,Mining,1,0,7,Currency,1,0,1500,600,-1,Phoenixcoin,Currency,0.01,0.25,0.13,0.2
+Potcoin,0.0,Mining,1,0,7,Industry,2,0,25000,10000,-1,Potcoin,Industry,0.0023,0.5,0.25115,1.5
+Primecoin,0.0,Mining,1,0,7,Currency,1,0,4000,1500,-1,Primecoin,Currency,0.5,10.0,5.25,1.2
+Quark,0.0,Mining,1,0,7,Currency,1,0,3000,1200,-1,Quark,Currency,0.0023,0.29,0.14615,0.8
+Hextra,0.0,Unknown,1,0,7,DeFi,0,0,20000,8000,-1,Ethereum,DeFi,0.01,0.05,0.030000000000000002,0.0
+Sia,1.25,Mining,1,0,7,"Utility, Storage",15,2,120000,50000,-1,Sia,Storage,4.6e-05,0.094,0.047023,7.8
+Hoge Finance,0.0,Unknown,1,0,7,Meme,0,0,150000,60000,1,Ethereum,Meme,6.7e-07,0.0009,0.000450335,1.8
+Terracoin,0.0,Mining,1,0,7,Currency,2,0,3000,1200,-1,Terracoin,Currency,0.15,6.8,3.475,0.5
+Vertcoin,0.0,Mining,1,0,7,Currency,5,1,30000,12000,-1,Vertcoin,Currency,0.05,10.0,5.025,3.0
+Zcash,0.0,Mining,1,0,7,Privacy,25,2,150000,60000,-1,Zcash,Privacy,5853.0,3191.93,4522.465,4.0
+Zetacoin,0.0,Mining,1,0,7,Currency,1,0,2500,1000,-1,Zetacoin,Currency,0.0002,0.08,0.040100000000000004,0.5
+IRON Titanium,0.0,Unknown,1,0,7,Stablecoin,5,0,60000,25000,1,Polygon,Stablecoin,65.0,64.19,64.595,0.0
+Kishu Inu,0.0,Unknown,1,0,7,Meme,0,0,280000,120000,1,Ethereum,Meme,1e-13,1.9e-08,9.50005e-09,1.8
+Klima DAO,0.0,Unknown,1,0,7,Carbon Credits,0,1,90000,40000,1,Polygon,DeFi,3447.0,3832.0,3639.5,2.2
+Kusama,0.0,Unknown,1,0,7,"Governance, Staking",40,2,180000,80000,-1,Kusama,Layer 1,1.5,621.0,311.25,9.2
+NuBits,0.0,Peercoin Holders,1,0,7,Stablecoin,5,0,15000,6000,-1,NuBits,Stablecoin,1.0,1.02,1.01,0.2
+Neutrino USD,0.0,Unknown,1,0,7,Stablecoin,15,1,50000,20000,-1,Waves,Stablecoin,1.0,1.01,1.005,1.0
+Gridcoin,0.0,Scientific Computing,1,0,7,Computing,3,0,6000,2500,-1,Gridcoin,Computing,0.0004,0.14,0.07020000000000001,2.2
+Einsteinium,0.0,Scientific Funding,1,0,7,Charity,2,0,15000,6000,-1,Einsteinium,Charity,0.0001,2.88,1.44005,1.8
+Olympus DAO,0.0,Unknown,1,0,7,Reserve Currency,0,1,120000,50000,1,Ethereum,DeFi,500.0,1415.26,957.63,2.0
+Friend.tech,0.0,Social,1,0,7,"Governance, Social",10,1,350000,150000,1,Base,Social,0.01,0.05,0.030000000000000002,6.5
+Bonk,0.0,Solana Holders,1,0,7,Meme,0,0,650000,300000,-1,Solana,Meme,1e-08,3e-05,1.5005000000000001e-05,3.8
+Particl,0.0,Unknown,1,0,7,Privacy,10,1,15000,6000,1,Particl,Privacy,5.0,52.7,28.85,2.0
+Pepe,0.0,Unknown,1,0,7,Meme,0,0,1500000,700000,1,Ethereum,Meme,1e-09,4e-06,2.0004999999999997e-06,3.5
+QuadrigaCX,0.0,Unknown,1,0,7,Exchange,10,0,80000,30000,-1,Ethereum,Exchange,0.1,0.12,0.11,0.0
+Redacted Cartel,0.0,Unknown,1,0,7,Governance,0,1,50000,20000,1,Ethereum,DeFi,1200.0,2000.0,1600.0,2.5
+SafeDollar,0.0,Unknown,1,0,7,Stablecoin,0,0,10000,4000,1,Polygon,Stablecoin,1.0,1.02,1.01,0.0
+SafeMoon,0.0,Unknown,1,0,7,Reflection,10,0,1200000,500000,1,BNB Chain,DeFi,1e-09,6.5e-06,3.2504999999999996e-06,1.5
+Saitama Inu,0.0,Unknown,1,0,7,Meme,0,0,320000,150000,1,Ethereum,Meme,8.9e-12,1.6e-07,8.000445e-08,1.5
+Samoyedcoin,0.0,Unknown,1,0,7,Meme,0,0,180000,80000,1,Solana,Meme,0.00051,0.22,0.110255,2.2
+Secret Network,2.0,Unknown,1,1,7,Privacy,20,2,150000,60000,1,Secret,Privacy,0.3,10.97,5.635000000000001,4.2
+Shiba Inu,0.0,Unknown,1,0,7,Meme,0,0,3200000,1500000,1,Ethereum,Meme,8.2e-11,8e-05,4.0000041e-05,4.5
+Socios,0.0,Unknown,1,0,7,"Governance, Sports",30,1,250000,100000,1,Chiliz,Sports,5.0,58.79,31.895,7.8
+PIVX,0.0,Staking,1,0,7,Privacy,15,1,40000,15000,-1,PIVX,Privacy,0.01,14.05,7.03,2.2
+Squid Game,0.0,Unknown,1,0,7,Gaming,0,0,100000,50000,1,BNB Chain,Gaming,0.01,2861.8,1430.9050000000002,0.0
+Temple DAO,0.0,Unknown,1,0,7,Reserve Currency,0,1,60000,25000,1,Ethereum,DeFi,0.33,0.4,0.365,1.8
+Terra UST,0.0,Unknown,1,0,7,Stablecoin,0,2,450000,200000,1,Terra,Stablecoin,1.0,1.01,1.005,0.2
+TerraUSD,0.0,Unknown,1,0,7,Stablecoin,0,2,450000,200000,1,Terra,Stablecoin,1.0,1.01,1.005,0.2
+Thodex Token,0.0,Unknown,1,0,7,Exchange,15,0,120000,50000,1,Ethereum,Exchange,0.12,0.15,0.135,0.0
+Tornado Cash,0.0,Unknown,1,0,7,Privacy,5,2,20000,8000,1,Ethereum,Privacy,30.0,437.0,233.5,1.0
+Verge,0.0,Unknown,1,0,7,Privacy,10,0,280000,120000,-1,Verge,Privacy,8e-06,0.3,0.150004,2.0
+WalletConnect,0.0,Unknown,1,0,7,Infrastructure,15,2,180000,80000,0,Ethereum,Infrastructure,0.2,0.6,0.4,4.0
+Wojak,0.0,Unknown,1,0,7,Meme,0,0,250000,100000,1,Ethereum,Meme,5e-08,5e-07,2.75e-07,2.0
+Wonderland,0.0,Unknown,1,0,7,Reserve Currency,0,1,180000,80000,1,Avalanche,DeFi,2434.0,10064.0,6249.0,1.5
+Yearn Finance,0.0,Unknown,1,0,7,"Governance, Yield",15,2,180000,80000,1,Ethereum,DeFi,34.53,93435.53,46735.03,9.5
+Luna Classic,1000.0,Unknown,0,1,7,"Governance, Stablecoin",50,2,650000,300000,1,Terra,Layer 1,1.36,119.18,60.27,0.5
+Terra,150.0,Unknown,0,1,7,Stablecoin,50,2,650000,300000,-1,Terra,DeFi,0.12,119.18,59.650000000000006,0.5
+Serum,20.0,Unknown,1,1,7,"Governance, Fee Reduction",20,2,180000,80000,1,Solana,DeFi,0.11,13.72,6.915,6.8
+Jupiter,40.0,Trading,1,1,7,"Governance, Fee Sharing",30,2,380000,150000,1,Solana,DeFi,0.33,1.25,0.79,7.6
+Hop Protocol,3.5,Bridge Usage,1,1,60,Governance,15,1,180000,80000,-1,Ethereum,DeFi,0.15,0.31,0.22999999999999998,5.8
+FTX Token,900.0,Unknown,0,1,7,"Exchange, Utility",200,2,580000,250000,-1,Ethereum,Exchange,1.0,85.44,43.22,1.0
+OliveX,2.1,Move-to-Earn,0,1,30,"Governance, Utility",15,1,120000,50000,1,Polygon,Move-to-Earn,0.05,0.41,0.22999999999999998,6.5
+Optimism,150.0,Unknown,1,1,7,Governance,40,2,580000,220000,-1,Ethereum,Layer 2,1.43,3.22,2.325,7.5
+Pyth Network,25.0,Unknown,1,1,7,"Governance, Oracle",40,2,250000,120000,0,Solana,Oracle,0.11,0.67,0.39,8.8
+Livepeer,8.0,Staking,1,1,90,"Governance, Staking",20,2,120000,50000,-1,Ethereum,Web3,8.8,99.04,53.92,9.1
+Celestia,55.0,Testnet,1,1,7,"Governance, Staking",35,2,320000,140000,1,Celestia,Layer 1,2.0,16.88,9.44,8.1
+Sui,300.0,Testnet,1,1,7,"Governance, Staking",90,2,420000,180000,0,Sui,Layer 1,1.25,2.16,1.705,7.8
+Mango Markets,70.0,Trading,1,1,30,Governance,10,1,120000,50000,1,Solana,DeFi,0.15,0.52,0.335,7.3
+Pangolin,2.5,Trading,1,1,30,Governance,10,1,120000,50000,1,Avalanche,DeFi,1.5,3.0,2.25,6.5
+Saber,7.7,Liquidity,1,1,30,Governance,10,1,90000,40000,1,Solana,DeFi,0.04,0.33,0.185,7.9
+Dotmoovs,3.5,Move-to-Earn,0,1,30,"Governance, Utility",20,1,150000,60000,1,Ethereum,Move-to-Earn,0.02,0.19,0.105,6.7
+Render,30.0,Unknown,1,1,7,"Governance, Utility",25,2,180000,70000,0,Ethereum,Web3,0.05,8.75,4.4,7.7
+Jito,10.0,Staking,1,1,7,"Governance, Staking",25,2,210000,95000,0,Solana,DeFi,1.26,3.12,2.19,8.4
+Lido,2.0,Unknown,1,1,30,Governance,20,2,180000,80000,1,Ethereum,DeFi,1.2,7.3,4.25,8.7
+Connext,12.0,Bridge Usage,1,1,90,Governance,20,1,150000,70000,-1,Ethereum,DeFi,0.25,0.42,0.33499999999999996,5.5
+Audius,5.5,Unknown,1,1,7,"Governance, Platform",25,2,250000,100000,1,Ethereum,Social,0.16,4.99,2.575,9.4
+Walken,1.5,Move-to-Earn,0,1,30,"Governance, Utility",20,1,180000,70000,-1,Solana,Move-to-Earn,0.04,0.07,0.05500000000000001,5.3
+Marinade Finance,3.0,Staking,1,1,45,Governance,12,1,110000,45000,1,Solana,DeFi,0.33,1.89,1.1099999999999999,6.7
+Scroll,83.0,Testnet,1,1,7,"Governance, Layer 2",35,2,180000,80000,1,Ethereum,Layer 2,1.8,3.25,2.525,7.2
+Sei,30.0,Testnet,1,1,7,"Governance, Staking",30,2,240000,110000,0,Sei,Layer 1,0.12,0.88,0.5,7.4
+dYdX,87.0,Trading,1,1,7,"Governance, Fee Reduction",35,2,320000,150000,1,Ethereum,DeFi,10.0,27.78,18.89,8.2
+Casper,14.0,Unknown,0,1,7,"Governance, Layer 1",40,1,180000,80000,1,Casper,Layer 1,0.03,1.33,0.68,4.8
+Space ID,10.0,Domain,1,1,7,"Governance, Domain",25,1,220000,90000,0,BNB Chain,Domain,0.45,0.95,0.7,6.7
+Mines of Dalarnia,3.8,Gaming,0,1,7,"Governance, Gaming",25,1,220000,90000,1,BNB Chain,Gaming,0.57,6.84,3.705,7.5
+Somnium Space,1.0,Metaverse,1,1,7,"Governance, Metaverse",20,1,150000,60000,0,Ethereum,Metaverse,0.23,24.92,12.575000000000001,8.7
+Fitfi,3.5,Move-to-Earn,0,1,7,"Governance, Utility",20,1,250000,100000,-1,BNB Chain,Move-to-Earn,0.01,0.14,0.07500000000000001,6.8
+Step App,5.0,Move-to-Earn,0,1,7,"Governance, Utility",25,1,320000,150000,-1,Avalanche,Move-to-Earn,0.04,0.1,0.07,5.8
+STEPVR,8.0,Move-to-Earn,0,1,30,"Governance, Utility",25,1,180000,80000,-1,BNB Chain,Move-to-Earn,0.03,0.08,0.055,5.5
+Treasure DAO,7.5,NFT,1,1,7,"Governance, NFT",15,1,150000,60000,-1,Arbitrum,NFT,1.64,5.58,3.61,7.1
+Lens Protocol,15.0,Social,1,1,45,"Governance, Social",30,2,350000,120000,-1,Polygon,Social,5.0,8.75,6.875,6.2
+Akash Network,3.2,Staking,1,1,60,"Governance, Utility",20,1,110000,45000,1,Cosmos,Cloud,3.3,5.92,4.609999999999999,6.3
+Aptos,350.0,Testnet,1,1,7,"Governance, Staking",80,2,380000,150000,-1,Aptos,Layer 1,9.0,19.92,14.46,6.5
+Linea,150.0,Testnet,1,1,7,"Governance, Layer 2",40,2,220000,90000,1,Ethereum,Layer 2,0.8,1.6,1.2000000000000002,6.5
+Orca,18.0,Trading,1,1,30,"Governance, Fee Sharing",15,1,130000,60000,1,Solana,DeFi,3.25,13.97,8.61,7.0
+zkSync,200.0,Unknown,1,1,7,"Governance, Layer 2",50,2,320000,150000,0,Ethereum,Layer 2,1.5,3.25,2.375,7.0
+Starknet,50.0,Testnet,1,1,7,"Governance, Staking",45,2,280000,130000,1,Starknet,Layer 2,1.29,2.44,1.865,9.3
+Injective,12.0,Trading,1,1,7,"Governance, Staking",25,2,180000,85000,1,Injective,DeFi,7.0,44.1,25.55,8.6
+Worldcoin,115.0,Biometric,1,1,7,"Governance, Identity",80,2,1500000,700000,1,Ethereum,Identity,1.7,7.5,4.6,3.5
+Aleph.im,3.7,Unknown,0,1,30,"Utility, Cloud",15,1,90000,40000,1,Ethereum,Cloud,0.06,0.6,0.32999999999999996,6.7
+Across Protocol,5.0,Bridge Usage,1,1,7,"Governance, Bridge",10,1,90000,40000,-1,Ethereum,DeFi,0.1,0.18,0.14,5.0
+Avalanche,42.0,Unknown,0,1,7,"Governance, Layer 1",50,2,320000,150000,1,Avalanche,Layer 1,0.5,146.22,73.36,9.0
+Crust Network,3.0,Unknown,0,1,7,"Utility, Storage",20,1,90000,40000,1,Polkadot,Storage,4.5,153.0,78.75,7.3
+Cudos,8.2,Unknown,0,1,30,"Utility, Cloud",20,1,120000,50000,1,Ethereum,Cloud,0.01,0.05,0.030000000000000002,6.3
+DIA,15.0,Unknown,0,1,30,"Utility, Oracle",25,1,120000,50000,1,Ethereum,Oracle,0.28,5.45,2.865,7.3
+Synapse,12.0,Bridge Usage,1,1,7,"Governance, Bridge",15,1,120000,50000,1,Multi-chain,DeFi,1.2,3.99,2.595,6.8
+EOS,4200.0,Unknown,0,1,7,"Governance, Layer 1",100,1,320000,150000,1,EOS,Layer 1,0.99,22.89,11.94,4.2
+Filecoin,257.0,Unknown,0,1,7,"Utility, Storage",50,2,450000,200000,1,Filecoin,Storage,26.0,237.24,131.62,8.8
+Flux,2.0,Unknown,0,1,7,"Utility, Cloud",25,2,150000,60000,-1,Flux,Cloud,0.01,4.17,2.09,8.1
+Loopring,45.0,Unknown,0,1,7,"Governance, Layer 2",25,2,180000,80000,-1,Ethereum,Layer 2,0.02,3.83,1.925,8.0
+Numeraire,11.0,Data Science,1,1,7,"Utility, AI",15,2,120000,50000,-1,Ethereum,AI,14.03,168.49,91.26,7.6
+Solana Name Service,0.0,Domain,1,0,7,"Governance, Domain",15,1,120000,50000,1,Solana,Domain,0.85,2.84,1.845,6.9
+Polkadot,145.0,Unknown,0,1,7,"Governance, Staking",50,2,450000,200000,1,Polkadot,Layer 1,6.3,49.69,27.994999999999997,8.5
+Tezos,232.0,Unknown,0,1,7,"Governance, Layer 1",60,2,220000,90000,1,Tezos,Layer 1,0.47,9.12,4.795,4.8
+Umbrella Network,5.0,Unknown,0,1,30,"Governance, Oracle",15,1,120000,50000,1,Ethereum,Oracle,0.62,5.07,2.845,6.5
+ZKSpace,8.5,Unknown,0,1,30,"Governance, Layer 2",25,1,120000,50000,-1,Ethereum,Layer 2,0.04,0.12,0.08,6.0
+1inch,12.0,Unknown,1,1,7,Governance,20,2,450000,180000,1,Ethereum,DeFi,2.5,7.87,5.1850000000000005,7.8
+Decentral Games,7.0,Gaming,1,1,7,"Governance, Gaming",25,1,180000,80000,1,Polygon,Gaming,0.07,0.58,0.32499999999999996,7.3
+Alchemix,0.5,Unknown,1,1,7,"Governance, Lending",10,1,100000,40000,1,Ethereum,DeFi,75.0,2231.3,1153.15,8.1
+Gods Unchained,15.0,Gaming,1,1,7,"Governance, Gaming",40,2,320000,150000,1,Ethereum,Gaming,0.55,8.97,4.760000000000001,8.2
+Merit Circle,4.5,Gaming,1,1,7,"Governance, Gaming",25,1,180000,80000,1,Ethereum,Gaming,1.28,7.28,4.28,7.8
+The Graph,10.0,Indexing,1,1,7,"Governance, Indexing",30,2,280000,120000,1,Ethereum,Web3,0.26,2.88,1.5699999999999998,8.7
+SushiSwap,0.0,Liquidity,1,0,7,"Governance, AMM",20,2,250000,100000,1,Ethereum,DeFi,0.47,23.38,11.924999999999999,8.5
+Bloktopia,4.2,Metaverse,0,1,30,"Governance, Metaverse",30,1,250000,100000,1,Polygon,Metaverse,0.00361,0.17,0.08680500000000001,7.9
+Metahero,10.0,Metaverse,0,1,30,"Governance, Metaverse",25,1,320000,150000,1,BNB Chain,Metaverse,0.003,0.25,0.1265,7.6
+Centrifuge,4.5,Unknown,1,1,7,"Governance, DeFi",25,1,100000,40000,1,Polkadot,DeFi,0.33,2.33,1.33,7.2
+Covalent,37.0,Unknown,1,1,7,"Governance, Data",30,2,150000,60000,1,Ethereum,Data,1.25,2.55,1.9,7.0
+Tellor,0.6,Mining,1,1,7,"Governance, Oracle",15,1,90000,40000,-1,Ethereum,Oracle,0.6,357.0,178.8,8.2
+Genopets,8.3,Move-to-Earn,0,1,7,"Governance, Gaming",30,1,220000,90000,-1,Solana,Move-to-Earn,4.5,18.0,11.25,7.2
+Stepn,5.0,Move-to-Earn,0,1,7,"Governance, Utility",30,2,680000,300000,-1,Solana,Move-to-Earn,0.01,4.11,2.06,9.1
+LayerZero,173.0,Unknown,1,1,7,"Governance, Bridge",30,2,250000,100000,0,Multi-chain,Infrastructure,1.35,7.5,4.425,8.0
+Mantle,200.0,Unknown,1,1,7,"Governance, Layer 2",40,2,250000,100000,1,Ethereum,Layer 2,0.5,0.95,0.725,6.5
+Rarible,1.8,NFT,1,1,7,"Governance, NFT",20,1,220000,90000,1,Ethereum,NFT,0.6,34.0,17.3,8.6
+Mirror Protocol,7.5,Unknown,1,1,7,"Governance, Synthetics",15,1,120000,50000,1,Terra,DeFi,1.13,13.23,7.18,5.0
+Ribbon Finance,8.5,Protocol Usage,1,1,30,"Governance, Fee Sharing",12,1,120000,50000,1,Ethereum,DeFi,0.48,2.74,1.61,8.3
+Farcaster,30.0,Social,1,1,7,"Governance, Social",25,2,280000,120000,1,Ethereum,Social,3.5,7.8,5.65,7.8
+Opyn,3.7,Unknown,1,1,7,"Governance, Options",15,1,90000,35000,1,Ethereum,DeFi,0.01,0.03,0.02,6.0
+Bifrost,2.2,Staking,0,1,7,"Governance, DeFi",15,1,90000,40000,1,Polkadot,DeFi,0.65,2.1,1.375,6.7
+Efinity,18.9,Staking,0,1,7,"Governance, NFT",20,1,150000,60000,-1,Polkadot,NFT,0.2,0.45,0.325,5.6
+Cosmos,17.0,Staking,1,1,7,"Governance, Staking",30,2,280000,120000,-1,Cosmos,Layer 1,7.0,44.7,25.85,8.0
+Stargaze,0.0,Staking,1,0,7,"Governance, NFT",10,1,90000,40000,-1,Cosmos,NFT,0.02,0.09,0.055,6.2
+Sorare,680.0,Unknown,1,1,7,"Governance, Sports",60,2,320000,150000,-1,Ethereum,Sports,5.0,8.5,6.75,7.5
+Galxe,8.0,Tasks,1,1,30,"Governance, Utility",25,1,280000,150000,-1,Ethereum,Web3,2.5,3.86,3.1799999999999997,6.9
+Base,300.0,Testnet,1,1,7,"Governance, Layer 2",60,2,350000,150000,1,Ethereum,Layer 2,1.2,2.5,1.85,7.0
+TrueFi,12.5,Unknown,1,1,7,"Governance, Lending",20,1,150000,60000,1,Ethereum,DeFi,0.09,0.85,0.47,7.0
+Wormhole,225.0,Unknown,1,1,7,"Governance, Bridge",40,2,220000,90000,-1,Multi-chain,Infrastructure,3.5,7.25,5.375,7.8
+Raydium,2.0,Trading,1,1,15,"Governance, Staking",15,1,150000,70000,1,Solana,DeFi,8.0,16.1,12.05,8.9
+Trader Joe,5.0,Trading,1,1,15,"Governance, Fee Sharing",15,1,150000,70000,1,Avalanche,DeFi,0.27,4.4,2.335,9.0
+Arbitrum,120.0,Unknown,1,1,7,Governance,45,2,625000,280000,0,Ethereum,Layer 2,1.25,1.88,1.565,6.8
+Unstoppable Domains,65.0,Domain,1,1,7,"Governance, Domain",40,2,180000,80000,-1,Polygon,Domain,0.52,1.25,0.885,6.5
+Polygon,5.6,Unknown,0,1,7,"Governance, Layer 2",50,2,420000,180000,-1,Ethereum,Layer 2,0.00263,2.92,1.461315,9.3
+My Neighbor Alice,5.6,Gaming,0,1,7,"Governance, Gaming",30,1,280000,120000,1,Ethereum,Gaming,1.42,40.93,21.175,8.5
+Wilder World,3.0,Metaverse,0,1,30,"Governance, Metaverse",35,2,280000,120000,1,Ethereum,Metaverse,0.15,8.98,4.565,8.3
+Sweatcoin,13.0,Move-to-Earn,1,1,7,"Governance, Utility",40,1,850000,400000,-1,Near,Move-to-Earn,0.05,0.09,0.07,6.2
+Ontology,0.0,NEO Holders,1,1,7,"Governance, Layer 1",40,1,280000,120000,-1,Ontology,Layer 1,0.2,11.18,5.6899999999999995,3.5
+Blur,11.0,Trading,1,1,7,"Governance, Fee Reduction",15,1,300000,120000,0,Ethereum,NFT,0.5,1.36,0.93,7.2
+The Sandbox,93.0,Unknown,1,1,7,"Governance, Metaverse",80,2,380000,150000,1,Ethereum,Metaverse,0.05,8.4,4.2250000000000005,9.3
+Arweave,8.7,Unknown,0,1,7,"Utility, Storage",25,2,180000,80000,-1,Arweave,Storage,0.74,89.24,44.989999999999995,8.9
+Ankr,18.7,Unknown,0,1,7,"Utility, Cloud",30,2,180000,80000,-1,Ethereum,Cloud,0.007,0.21,0.1085,7.5
+Stargate Finance,25.0,Bridge Usage,1,1,7,"Governance, Bridge",20,1,180000,80000,-1,Multi-chain,DeFi,0.56,4.2,2.38,7.2
+IoTeX,14.0,Unknown,0,1,7,"Utility, IoT",30,2,180000,80000,-1,IoTeX,IoT,0.007,0.26,0.1335,7.2
+Metis,100.0,Unknown,0,1,30,"Governance, Layer 2",30,2,150000,60000,1,Ethereum,Layer 2,75.0,323.0,199.0,7.5
+Gitcoin,11.3,Contributions,1,1,7,Governance,25,2,280000,120000,1,Ethereum,Web3,4.0,16.82,10.41,8.0
+Ocean Protocol,28.0,Unknown,0,1,7,"Utility, Data",30,2,180000,80000,-1,Ethereum,Data,0.03,1.94,0.985,7.8
+Oraichain,2.3,Unknown,0,1,30,"Governance, Oracle",20,1,100000,40000,1,Cosmos,Oracle,3.5,50.0,26.75,7.1
+SingularityNET,36.0,Unknown,0,1,7,"Utility, AI",40,2,180000,80000,1,Ethereum,AI,0.1,1.86,0.9800000000000001,7.9
+Star Atlas,20.0,Unknown,0,1,7,"Governance, Gaming",70,2,320000,150000,1,Solana,Gaming,0.00138,0.22,0.11069,7.5
+Storj,30.0,Unknown,0,1,7,"Utility, Storage",30,2,150000,60000,-1,Ethereum,Storage,0.05,3.91,1.98,7.5
+Voyager,60.0,Unknown,0,1,7,Exchange,120,1,280000,120000,-1,Ethereum,Exchange,0.16,7.28,3.72,1.2
+Voyager Token,60.0,Unknown,0,1,7,"Utility, Exchange",120,1,280000,120000,-1,Ethereum,Exchange,0.16,7.28,3.72,1.2
+Alien Worlds,2.0,Gaming,1,1,7,"Governance, Gaming",20,1,350000,150000,1,WAX,Gaming,0.84,7.16,4.0,7.8
+API3,3.0,Unknown,1,1,7,"Utility, Oracle",20,1,150000,60000,1,Ethereum,Oracle,0.3,10.31,5.305000000000001,7.9
+Yield Guild Games,12.5,Gaming,1,1,7,"Governance, Gaming",30,2,250000,100000,1,Ethereum,Gaming,0.5,10.94,5.72,8.7
+Axelar,25.0,Unknown,1,1,7,"Governance, Bridge",25,2,180000,80000,-1,Cosmos,Infrastructure,0.15,0.89,0.52,7.5
+Dopex,5.0,Unknown,1,1,7,"Governance, Options",10,1,100000,40000,1,Arbitrum,DeFi,250.0,2100.0,1175.0,7.8
+Goldfinch,25.0,Unknown,1,1,7,"Governance, Lending",25,1,120000,50000,-1,Ethereum,DeFi,4.98,25.61,15.295,7.2
+Harvest Finance,0.0,Unknown,1,0,7,"Governance, Yield",10,1,120000,50000,1,Ethereum,DeFi,80.0,2425.0,1252.5,7.2
+Hyperlane,18.5,Unknown,1,1,7,"Governance, Bridge",20,2,120000,50000,0,Multi-chain,Infrastructure,0.85,1.75,1.3,6.5
+Liquity,2.4,Unknown,1,1,7,"Governance, Stablecoin",10,2,120000,50000,1,Ethereum,DeFi,16.0,125.0,70.5,7.8
+Bored Ape Yacht Club,450.0,NFT,1,1,7,"Governance, NFT",30,2,650000,300000,-1,Ethereum,NFT,8.5,26.7,17.6,8.8
+Maple Finance,11.0,Unknown,1,1,7,"Governance, Lending",15,1,120000,50000,1,Ethereum,DeFi,14.71,53.68,34.195,7.3
+RMRK,6.0,NFT,1,1,7,"Governance, NFT",15,2,120000,50000,1,Kusama,NFT,6.3,49.0,27.65,8.1
+SuperRare,9.0,NFT,1,1,7,"Governance, NFT",25,1,180000,80000,1,Ethereum,NFT,0.89,3.23,2.06,7.4
+Pocket Network,9.5,Node,1,1,7,"Utility, Infrastructure",20,2,120000,50000,1,Pocket,Infrastructure,0.03,2.59,1.3099999999999998,7.9
+Nest Protocol,6.0,Unknown,1,1,7,"Governance, Oracle",20,1,150000,60000,1,Ethereum,Oracle,0.01,0.18,0.095,6.8
+Moonbeam,70.0,Staking,0,1,7,"Governance, Staking",30,2,220000,90000,-1,Polkadot,Layer 1,1.42,4.16,2.79,6.8
+Parallel Finance,160.0,Staking,0,1,7,"Governance, DeFi",30,1,120000,50000,-1,Polkadot,DeFi,1.8,4.5,3.15,5.5
+Phala Network,5.0,Staking,0,1,7,"Governance, Privacy",25,1,120000,50000,1,Polkadot,Privacy,0.8,1.27,1.0350000000000001,6.3
+Rally,22.0,Unknown,1,1,7,"Governance, Social",25,1,180000,80000,1,Ethereum,Social,0.02,1.4,0.71,7.5
+Illuvium,5.0,Staking,1,1,7,"Governance, Gaming",40,2,280000,120000,1,Ethereum,Gaming,50.0,1914.0,982.0,9.0
+Juno,0.0,Staking,1,0,7,"Governance, Smart Contract",15,2,120000,50000,1,Cosmos,Layer 1,7.0,45.7,26.35,7.5
+Stride,3.0,Staking,1,1,7,"Governance, Liquid Staking",10,1,80000,35000,-1,Cosmos,DeFi,0.15,0.5,0.325,6.5
+UMA,4.0,Unknown,1,1,7,"Governance, Oracle",20,2,180000,80000,0,Ethereum,Oracle,0.26,43.37,21.814999999999998,8.5
+Uniswap,11.0,Unknown,1,1,7,Governance,25,2,675000,250000,1,Ethereum,DeFi,3.0,44.92,23.96,9.5
+UXD Protocol,8.0,Unknown,1,1,7,"Governance, Stablecoin",10,1,80000,30000,-1,Solana,DeFi,0.98,1.05,1.0150000000000001,4.5
+Perpetual Protocol,8.5,Trading,1,1,7,"Governance, Trading",20,2,150000,60000,1,Ethereum,DeFi,0.53,23.15,11.84,8.0
+Cardano,62.0,Unknown,0,1,7,"Governance, Layer 1",200,2,1200000,500000,1,Cardano,Layer 1,0.02,3.1,1.56,4.9
+Near Protocol,33.0,Unknown,0,1,7,"Governance, Layer 1",40,2,280000,120000,1,Near,Layer 1,0.17,20.44,10.305000000000001,8.5
+Gala Games,21.0,Gaming,1,1,7,"Governance, Gaming",60,2,420000,180000,1,Ethereum,Gaming,0.00086,0.82,0.41042999999999996,9.5
+LooksRare,0.0,NFT,1,0,7,"Governance, NFT",20,1,280000,120000,-1,Ethereum,NFT,0.69,7.07,3.88,7.7
+Basic Attention Token,35.0,Unknown,0,1,7,"Utility, Advertising",30,2,380000,180000,-1,Ethereum,Advertising,0.04,1.92,0.98,8.5
+Brave Attention Token,35.0,Unknown,0,1,7,"Utility, Advertising",30,2,380000,180000,-1,Ethereum,Advertising,0.04,1.92,0.98,8.5
+Decentraland,24.0,Unknown,0,1,7,"Governance, Metaverse",40,2,320000,140000,-1,Ethereum,Metaverse,0.02,5.9,2.96,8.9
+Fetch.ai,6.0,Unknown,0,1,7,"Utility, AI",35,2,150000,60000,-1,Ethereum,AI,0.08,1.19,0.635,7.4
+Mina Protocol,18.7,Unknown,0,1,7,"Governance, Layer 1",30,2,220000,90000,1,Mina,Layer 1,0.25,6.13,3.19,8.0
+Handshake,10.2,Domain,1,1,7,"Governance, Domain",20,1,150000,60000,0,Handshake,Domain,0.1,0.59,0.345,7.2
+MXC,24.0,Unknown,0,1,7,"Utility, IoT",25,1,150000,60000,-1,Ethereum,IoT,0.01,0.07,0.04,6.5
+Presearch,6.5,Unknown,0,1,7,"Utility, Search",15,1,150000,60000,-1,Ethereum,Search,0.01,0.46,0.23500000000000001,7.2
+Synthetix,30.0,Unknown,0,1,7,"Governance, Synthetics",25,2,180000,80000,-1,Ethereum,DeFi,0.04,28.53,14.285,9.1
+Theta,20.0,Unknown,0,1,7,"Utility, Video",35,2,320000,150000,-1,Theta,Video,0.15,15.72,7.9350000000000005,8.7
+Axie Infinity,9.0,Gaming,1,1,7,"Governance, Gaming",50,2,550000,250000,1,Ethereum,Gaming,0.15,164.9,82.525,9.8
+WINkLink,4.0,Unknown,0,1,7,"Utility, Oracle",30,1,320000,150000,-1,TRON,Oracle,7.8e-05,0.0025,0.001289,7.0
+PancakeSwap,0.0,Liquidity,1,0,7,"Governance, AMM",25,2,380000,180000,1,BNB Chain,DeFi,0.26,44.18,22.22,8.7
+Brave Search,35.0,Unknown,1,1,7,"Utility, Search",30,2,380000,180000,1,Ethereum,Search,0.04,1.92,0.98,8.5
+Dapper Labs,18.0,Unknown,1,1,7,"Governance, NFT",70,2,350000,150000,0,Flow,NFT,0.1,42.4,21.25,8.7
+Frax Finance,2.0,Unknown,1,1,7,"Governance, Stablecoin",15,2,150000,60000,1,Ethereum,DeFi,1.5,42.8,22.15,8.4
+Immutable X,12.5,NFT,1,1,7,"Governance, NFT",45,2,350000,150000,1,Ethereum,NFT,0.1,9.52,4.81,9.0
+Acala,250.0,Staking,0,1,7,"Governance, DeFi",40,2,200000,90000,-1,Polkadot,DeFi,1.27,1.92,1.595,5.8
+Astar,22.0,Staking,0,1,7,"Governance, Staking",35,2,180000,80000,-1,Polkadot,Layer 1,0.12,0.31,0.215,6.5
+Osmosis,0.0,Staking,1,0,7,"Governance, Staking",20,2,180000,90000,1,Cosmos,DeFi,1.0,11.25,6.125,9.2
+Gains Network,0.0,Trading,1,0,7,"Governance, Trading",10,1,120000,50000,1,Polygon,DeFi,0.05,14.72,7.385000000000001,8.7
+Dfinity,195.0,Unknown,0,1,7,"Governance, Cloud",180,2,350000,150000,1,Internet Computer,Cloud,750.0,750.0,750.0,4.0
+Internet Computer,300.0,Unknown,0,1,7,"Governance, Cloud",200,2,380000,150000,1,Internet Computer,Cloud,750.0,750.0,750.0,4.0
+Algorand,62.0,Unknown,0,1,7,"Governance, Layer 1",110,2,280000,120000,-1,Algorand,Layer 1,2.4,3.56,2.98,4.7
+Band Protocol,10.85,Unknown,0,1,7,"Utility, Oracle",25,2,180000,80000,-1,Cosmos,Oracle,0.22,20.83,10.524999999999999,8.4
+Celsius,50.0,Unknown,0,1,7,"Utility, Lending",150,1,320000,150000,-1,Ethereum,DeFi,0.15,8.05,4.1000000000000005,0.8
+Nervos Network,100.0,Unknown,0,1,7,"Governance, Layer 1",30,1,150000,60000,-1,Nervos,Layer 1,0.01,0.04,0.025,4.5
+ENS,0.0,Domain Registration,1,0,7,Governance,15,1,420000,180000,1,Ethereum,Web3,33.9,83.4,58.650000000000006,8.5
+Ethereum Name Service,0.0,Domain Registration,1,0,7,"Governance, Domain",15,1,420000,180000,1,Ethereum,Web3,33.9,83.4,58.650000000000006,8.5
+Balancer,3.0,Liquidity,1,1,7,"Governance, AMM",20,2,180000,80000,1,Ethereum,DeFi,6.65,74.45,40.550000000000004,8.3
+Badger DAO,0.0,Unknown,1,0,7,"Governance, Yield",15,1,150000,60000,1,Ethereum,DeFi,1.74,75.49,38.614999999999995,7.5
+Evmos,0.0,Staking,1,0,7,"Governance, Smart Contract",15,2,120000,50000,-1,Cosmos,Layer 1,1.69,6.84,4.265,7.0
+Chiliz,66.0,Unknown,0,1,7,"Governance, Sports",40,2,280000,120000,-1,Ethereum,Sports,0.01,0.89,0.45,8.0
+Zilliqa,22.0,Unknown,0,1,7,"Governance, Layer 1",25,1,220000,90000,1,Zilliqa,Layer 1,0.01,0.23,0.12000000000000001,3.2
+Rocket Pool,0.0,Node,1,0,7,"Governance, Liquid Staking",15,2,150000,60000,1,Ethereum,DeFi,15.19,59.46,37.325,8.2
+Moonriver,0.0,Staking,0,0,7,"Governance, Staking",25,2,150000,70000,1,Kusama,Layer 1,55.0,413.0,234.0,8.3
+Convex Finance,0.0,Staking,1,0,7,"Governance, Yield",10,2,150000,60000,1,Ethereum,DeFi,4.31,62.69,33.5,8.9
+GMX,2.1,Trading,1,1,7,"Governance, Trading",15,2,180000,80000,1,Arbitrum,DeFi,0.71,62.1,31.405,9.2
+Chainlink,32.0,Unknown,0,1,7,"Utility, Oracle",35,2,520000,220000,-1,Ethereum,Oracle,0.11,52.88,26.495,9.7
+Helium,38.8,Mining,1,1,7,"Governance, Utility",40,2,220000,90000,-1,Helium,IoT,0.25,54.88,27.565,9.6
+Solana,25.6,Unknown,0,1,7,"Governance, Layer 1",60,2,380000,150000,0,Solana,Layer 1,0.22,260.06,130.14000000000001,9.5
+NEO,0.0,Unknown,0,1,7,"Governance, Layer 1",25,2,350000,150000,-1,NEO,Layer 1,0.03,196.85,98.44,4.5
+Curve,0.0,Liquidity,1,0,7,"Governance, AMM",15,2,220000,90000,1,Ethereum,DeFi,0.58,6.4,3.49,9.0
+NXT,0.0,Unknown,0,1,7,Platform,10,1,25000,10000,-1,NXT,Layer 1,1.68e-05,2.15,1.0750084,3.0

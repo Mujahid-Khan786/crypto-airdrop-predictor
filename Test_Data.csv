@@ -1,0 +1,31 @@
+Project Name,Funding ($M),Tasks Required,"Free to Join(Yes=1, No=0)","VC Backing(Yes=1, No=0)",Airdrop Longevity (Days),Token Utility,Team Size,"GitHub Activity(Low=0, Medium=1, High=2)",Twitter Followers,Community Size,"Market Condition(Bull=1, Bear= -1, Neutral=0)",Blockchain,Sector,Initial Value ($),Peak Value ($),Average value($),Success Score (0-10)
+Solana,314,Social Media,1,1,14,Smart Contract Platform,45,2,2500000,1200000,1,Solana,Layer 1,0.22,260.0,130.11,8.7
+Uniswap,11,Trading,1,1,30,DEX,25,2,1200000,500000,0,Ethereum,DeFi,0.42,44.92,22.67,7.5
+Chainlink,32,Unknown,0,1,10,Oracle,35,2,1500000,700000,1,Ethereum,Oracle,0.11,52.88,26.495,8.2
+Polkadot,145,Staking,1,1,21,Interoperability,50,2,1100000,450000,0,Polkadot,Layer 1,2.69,49.69,26.19,7.8
+Avalanche,230,Unknown,0,1,14,Smart Contract Platform,40,1,950000,380000,1,Avalanche,Layer 1,2.79,146.22,74.505,7.9
+Arbitrum,120,Trading,1,1,30,Layer 2,30,2,780000,320000,1,Ethereum,Layer 2,0.94,2.85,1.895,6.8
+Optimism,150,Trading,1,1,21,Layer 2,28,2,580000,240000,1,Ethereum,Layer 2,0.69,3.78,2.235,6.5
+Aptos,350,Unknown,0,1,14,Smart Contract Platform,60,1,420000,180000,0,Aptos,Layer 1,3.22,19.92,11.57,5.9
+Sui,300,Social Media,1,1,21,Smart Contract Platform,55,1,380000,150000,0,Sui,Layer 1,0.51,1.91,1.21,5.7
+Celestia,55,Staking,1,1,14,Data Availability,25,1,290000,120000,1,Celestia,Layer 1,1.88,12.35,7.115,6.2
+Aave,17,Staking,1,1,28,Lending,22,2,680000,290000,0,Ethereum,DeFi,0.76,666.86,333.81,7.6
+Compound,25,Lending,1,1,21,Lending,20,2,520000,210000,0,Ethereum,DeFi,61.25,911.2,486.225,7.3
+Curve,3,Staking,1,0,14,DEX,15,2,410000,180000,0,Ethereum,DeFi,0.4,60.5,30.45,6.9
+MakerDAO,27,Unknown,0,1,0,Stablecoin,30,2,380000,150000,0,Ethereum,DeFi,1.38,6299.33,3150.355,7.8
+Synthetix,12,Staking,1,1,30,Derivatives,25,2,320000,130000,0,Ethereum,DeFi,0.15,28.53,14.34,6.5
+Yearn Finance,0,Unknown,0,0,0,Yield,10,2,290000,120000,0,Ethereum,DeFi,31.65,90425.0,45228.325,7.1
+Lido,73,Staking,1,1,0,Staking,20,2,270000,110000,1,Ethereum,DeFi,0.56,7.69,4.125,7.4
+dYdX,87,Trading,1,1,21,DEX,35,2,250000,100000,0,Ethereum,DeFi,1.46,27.78,14.62,7.0
+Cosmos,17,Staking,1,1,14,Interoperability,40,2,1050000,420000,0,Cosmos,Layer 1,1.13,44.7,22.915,7.2
+Near Protocol,167,Unknown,0,1,7,Smart Contract Platform,45,1,830000,330000,0,Near,Layer 1,1.56,20.44,11.0,6.8
+Algorand,62,Staking,1,1,14,Smart Contract Platform,50,1,760000,300000,0,Algorand,Layer 1,0.1,3.56,1.83,6.3
+Filecoin,257,Storage,1,1,30,Storage,55,2,520000,210000,0,Filecoin,Storage,4.78,237.24,121.01,6.7
+The Graph,12,Indexing,1,1,21,Indexing,30,2,480000,190000,0,Ethereum,Data,0.03,2.88,1.455,6.6
+Arweave,22,Storage,1,1,14,Storage,25,1,320000,130000,0,Arweave,Storage,0.79,89.96,45.375,6.4
+Render,30,Unknown,0,1,21,Compute,20,1,280000,110000,1,Ethereum,Compute,0.05,8.76,4.405,6.0
+Helium,365,Hardware,0,1,0,IoT,40,1,240000,95000,0,Helium,IoT,0.26,55.22,27.74,5.8
+Theta,20,Content,1,1,14,Content,30,1,380000,150000,0,Theta,Content,0.04,15.9,7.97,6.1
+Basic Attention Token,35,Browsing,1,1,30,Advertising,25,2,450000,180000,0,Ethereum,Advertising,0.04,1.92,0.98,6.3
+Decentraland,24,Gaming,1,1,21,Metaverse,30,1,680000,270000,0,Ethereum,Metaverse,0.02,5.9,2.96,6.5
+The Sandbox,93,Gaming,1,1,30,Metaverse,45,1,840000,340000,0,Ethereum,Metaverse,0.008,8.4,4.204,6.7
